@@ -6,4 +6,7 @@ The goal of this project is to explore the Saila DVD Rental Database using SQL t
 ### Project Tasks
 - Using the Sakila Database, come up with interesting questions that can be answered with the provided database.
 - Create supporting SQL queries needed to answer the question.
-- Create supporting visualizations using the final data of the SQL queries that answer the questions of interest.
+- Create a report with supporting visualizations using the final data of the SQL queries that answer the questions of interest.
+
+
+[report.pdf](https://github.com/JustSalima/UD_PFDSwP_SQL/files/7102178/report.pdf)
